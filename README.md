@@ -33,7 +33,7 @@ protected routes for customer operations.
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/Mizba-Hub/e-commerce-customer-api.git
+git clone https://github.com/shaimahav/e-commerce-customer-api-
 cd e-commerce-customer-api
 ```
 
